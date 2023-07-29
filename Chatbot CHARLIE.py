@@ -1,5 +1,5 @@
 import pyttsx3 
-import SpeechRecognition as sr 
+import speech_recognition as sr 
 import datetime
 import wikipedia 
 import webbrowser
